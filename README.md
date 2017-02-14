@@ -23,3 +23,11 @@ train.data: Train sample size 77531
 
 
 test.data: Test sample szie 19383
+
+encodingSeq.py - sequence encoding
+```
+# change the first line #!/home/fish/anaconda3/bin/python to your python directory
+# encodingSeq.py train.data flanking_length
+# for example
+encodingSeq.py train.data 10
+```
