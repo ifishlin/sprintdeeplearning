@@ -37,3 +37,21 @@ encodingSeq.py - sequence encoding
 # for example
 encodingSeq.py train.data 10
 ```
+
+繳交作業
+* Programs
+* Training data and validation data accuracy.
+* Prediction for 19383 test.data
+* Short note for what paramters do you try in this homework.
+
+繳交日期
+* 2/22 中午前.
+
+繳交方式
+* 寄給ifishlin324@gmail.com
+
+分組
+* 2/15上課分組.
+
+可以調的參數
+* width, depth, filter size, full-connected network (hidden number), learning rate, stochastic GD, dropout ...
