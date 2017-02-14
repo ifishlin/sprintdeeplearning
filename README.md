@@ -13,7 +13,13 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
 https://github.com/mikekestemont/ghentDL
 
 
-# Homework Protein-DNA binding prediction
+# Homework Protein-DNA binding prediction (CTCF)
+
+* CHIP-seq data
+https://www.encodeproject.org/experiments/ENCSR000AQU/
+
+* Reference: http://www.nature.com/nbt/journal/v33/n8/full/nbt.3300.html
+* Supplementary Notes: http://www.nature.com/nbt/journal/v33/n8/extref/nbt.3300-S2.pdf
 
 train.data: Train sample size 77531
 
