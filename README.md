@@ -12,6 +12,8 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
 
 https://github.com/mikekestemont/ghentDL
 
+http://brohrer.github.io/how_convolutional_neural_networks_work.html
+
 
 # Homework Protein-DNA binding prediction (CTCF)
 
