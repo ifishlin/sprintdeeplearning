@@ -62,9 +62,10 @@ encodingSeq.py train.data 10
 | 1 | winiel559 |
 | 2 | chou.yuta |
 | 3 | wtwang, jason |
+| 4 | rouanshen, ilunteng |
 
 尚未分組
-@andrewkuo @yichun1492 @bomson @rouanshen @ilunteng @jill @alicetuan
+@andrewkuo @yichun1492 @bomson @jill @alicetuan
 可以調的參數
 * width, depth, filter size, filter number, full-connected network (hidden number), learning rate, stochastic GD, dropout ...
 
