@@ -57,6 +57,13 @@ encodingSeq.py train.data 10
 分組
 * 2/15上課分組.
 
+|  組別      | 成員 |
+|--------|----------|
+| 1 | winiel559 |
+| 2 | chou.yuta |
+| 3 | wtwang, jason |
+
+
 可以調的參數
 * width, depth, filter size, filter number, full-connected network (hidden number), learning rate, stochastic GD, dropout ...
 
