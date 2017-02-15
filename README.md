@@ -64,9 +64,7 @@ encodingSeq.py train.data 10
 | 3 | wtwang, jason |
 
 尚未分組
-@andrewkuo @yichun1492 @bomson @rouanshen @ilunteng @jill
-
-
+@andrewkuo @yichun1492 @bomson @rouanshen @ilunteng @jill @alicetuan
 可以調的參數
 * width, depth, filter size, filter number, full-connected network (hidden number), learning rate, stochastic GD, dropout ...
 
