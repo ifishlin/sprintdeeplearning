@@ -39,10 +39,10 @@ encodingSeq.py train.data 10
 ```
 
 繳交作業
-* Programs
-* Training data and validation data accuracy.
-* Prediction for 19383 test.data
-* Short note for what paramters do you try in this homework.
+* Programs (.txt, .py)
+* Training data and validation data accuracy. (Trend Chart)
+* Prediction for 19383 test.data. (19383 row, 0 negative, 1 positive)
+* Description(1~2 pages) for what paramters do you try in this homework.
 
 繳交日期
 * 2/22 中午前.
@@ -55,3 +55,6 @@ encodingSeq.py train.data 10
 
 可以調的參數
 * width, depth, filter size, filter number, full-connected network (hidden number), learning rate, stochastic GD, dropout ...
+
+參考範本
+* https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb
