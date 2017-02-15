@@ -64,7 +64,7 @@ encodingSeq.py train.data 10
 | 3 | wtwang, jason |
 
 尚未分組
-@andrewkuo @yichun1492 @bomson @rouanshen @ilunteng
+@andrewkuo @yichun1492 @bomson @rouanshen @ilunteng @jill
 
 
 可以調的參數
