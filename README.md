@@ -14,6 +14,8 @@ https://github.com/mikekestemont/ghentDL
 
 http://brohrer.github.io/how_convolutional_neural_networks_work.html
 
+https://ronxin.github.io/wevi/
+
 
 # Homework Protein-DNA binding prediction (CTCF)
 
