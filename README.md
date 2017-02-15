@@ -67,7 +67,7 @@ encodingSeq.py train.data 10
 尚未分組
 @andrewkuo @yichun1492 @bomson @jill @alicetuan
 可以調的參數
-* width, depth, filter size, filter number, full-connected network (hidden number), learning rate, stochastic GD, dropout ...
+* CNN(width, depth, filter size, filter number, max_pool/avg_pool) ... full-connected network (hidden number), learning rate, stochastic GD, dropout ...
 
 參考範本
 * https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb
