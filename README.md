@@ -63,9 +63,11 @@ encodingSeq.py train.data 10
 | 2 | chou.yuta |
 | 3 | wtwang, jason |
 | 4 | rouanshen, ilunteng |
+| 5 | bomson, andrewkuo |
+| 6 | yichun1492 |
+| 7 | alicetuan |
+| 8 | jill |
 
-尚未分組
-@andrewkuo @yichun1492 @bomson @jill @alicetuan
 可以調的參數
 * CNN(width, depth, filter size, filter number, max_pool/avg_pool) ... full-connected network (hidden number), learning rate, stochastic GD, dropout ...
 
