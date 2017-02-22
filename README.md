@@ -84,7 +84,7 @@ encodingSeq.py train.data 10
 | padding | VALID (no padding)|
 
 可以調的參數
-* CNN(width, depth, filter size, filter number, max_pool/avg_pool) ... full-connected network (hidden number), learning rate, stochastic GD, dropout ...
+* CNN(width, depth, filter size, filter number, max_pool/avg_pool ,full-connected network (hidden number), learning rate, stochastic GD, dropout ... etc
 
 參考範本
 * https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb
