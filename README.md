@@ -61,7 +61,7 @@ encodingSeq.py train.data 10
 |--------|----------|----------|
 | 1 | winiel559 |0.8493|
 | 2 | chou.yuta |0.4959|
-| 3 | wtwang, jason |----------|
+| 3 | wtwang, jason |0.5167|
 | 4 | rouanshen, ilunteng |0.6773|
 | 5 | bomson, andrewkuo | 0.8845|
 | 6 | yichun1492 |0.5299|
