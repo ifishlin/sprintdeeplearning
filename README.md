@@ -17,7 +17,7 @@ http://brohrer.github.io/how_convolutional_neural_networks_work.html
 https://ronxin.github.io/wevi/
 
 
-# Homework 1, Protein-DNA binding prediction (CTCF)
+# HW1, Protein-DNA binding prediction (CTCF)
 
 * CHIP-seq data
 https://www.encodeproject.org/experiments/ENCSR000AQU/
@@ -93,7 +93,7 @@ encodingSeq.py train.data 10
 * https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb
 
 
-# Homework 2, Protein-DNA binding prediction using protein sequence (CTCF)
+# HW2, Protein-DNA binding prediction using protein sequence (CTCF)
 
 Descriptions
 
