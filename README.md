@@ -69,9 +69,9 @@ encodingSeq.py train.data 10
 | 8 | jill |0.6538|
 | 9 | fish |0.8260| 
 
-Fish's = 2 * convolution 
+ 
 
-|  參數  | value |
+|  Fish's 參數  | value |
 |--------|----------|
 | convolution | 2  (32 filter, size 11 * 4) |
 | NN |32 hidden |
