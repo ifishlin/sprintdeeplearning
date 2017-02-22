@@ -50,6 +50,7 @@ def encodingSeq2PWM(train_data, f):
 
     #delete first sample. (fake one)
     data = np.delete(data, 0, 0)
+    label = np.delete(label, 0, 0)
 
     #save as a pickle file
     pack = {'name':n, 'seq':data, 'label':label}
