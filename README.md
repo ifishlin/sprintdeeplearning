@@ -80,7 +80,7 @@ encodingSeq.py train.data 10
 | relu | unused |
 | pooling | unused |
 | k-fold | unused |
-| strides | 2 |
+| strides | 2 ([1, 2, 2, 1]) |
 | padding | VALID (no padding)|
 
 可以調的參數
