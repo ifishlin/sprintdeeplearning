@@ -96,6 +96,7 @@ Descriptions
 
 1. Build a CNN which use featrues from DNA sequence data (HW1) and protein sequence (HW2) **seperately**.
 2. Before classifier, concatenate two feature vectors and then feed it into classifier (NN)
+3. filter size of amino acide should be **length * 20** (number of amino acid).
 
 **CTCF_HUMAN.fasta**
 ```bash
