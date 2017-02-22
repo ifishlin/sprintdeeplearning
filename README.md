@@ -34,7 +34,7 @@ https://www.encodeproject.org/experiments/ENCSR000AQU/
 
 **test.data**: Test sample szie 19383 (positive 9709 , negative 9674)
 
-**test_and.data**: **update**, test data with 答案.
+**test_and.data**: (**update**), test data with 答案.
 
 **encodingSeq.py** - sequence encoding
 ```
