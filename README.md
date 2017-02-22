@@ -32,7 +32,7 @@ train.data: Train sample size 77531
 | train.data  |     name    |     101 length     |     0 negative, 1 positive     |
 
 
-test.data: Test sample szie 19383
+test.data: Test sample szie 19383 (positive 9709 , negative 9674)
 
 encodingSeq.py - sequence encoding
 ```
@@ -57,17 +57,17 @@ encodingSeq.py train.data 10
 分組
 * 2/15上課分組.
 
-|  組別      | 成員 |
-|--------|----------|
-| 1 | winiel559 |
-| 2 | chou.yuta |
-| 3 | wtwang, jason |
-| 4 | rouanshen, ilunteng |
-| 5 | bomson, andrewkuo |
-| 6 | yichun1492 |
-| 7 | alicetuan |
-| 8 | jill |
-
+|  組別      | 成員 | accuracy |
+|--------|----------|----------|
+| 1 | winiel559 |----------|
+| 2 | chou.yuta |----------|
+| 3 | wtwang, jason |----------|
+| 4 | rouanshen, ilunteng |----------|
+| 5 | bomson, andrewkuo | 0.8845|
+| 6 | yichun1492 |0.5299|
+| 7 | alicetuan |0.5050|
+| 8 | jill |----------|
+| 9 | fish |----------|
 可以調的參數
 * CNN(width, depth, filter size, filter number, max_pool/avg_pool) ... full-connected network (hidden number), learning rate, stochastic GD, dropout ...
 
