@@ -67,7 +67,22 @@ encodingSeq.py train.data 10
 | 6 | yichun1492 |0.5299|
 | 7 | alicetuan |0.5050|
 | 8 | jill |0.6538|
-| 9 | fish |----------|
+| 9 | fish |0.8260| 
+
+Fish's = 2 * convolution 
+
+|  參數  | value |
+|--------|----------|
+| convolution | 2  (32 filter, size 11 * 4) |
+| NN |32 hidden |
+| GE | SGE, batch_size 1000, 30000 run|
+| Learning rate | 0.05 |
+| relu | unused |
+| pooling | unused |
+| k-fold | unused |
+| strides | 2 |
+| padding | VALID (no padding)|
+
 可以調的參數
 * CNN(width, depth, filter size, filter number, max_pool/avg_pool) ... full-connected network (hidden number), learning rate, stochastic GD, dropout ...
 
