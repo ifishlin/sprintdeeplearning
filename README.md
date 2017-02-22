@@ -73,8 +73,8 @@ encodingSeq.py train.data 10
 
 |  Fish's 參數  | value |
 |--------|----------|
-| convolution | 2  (32 filter, size 11 * 4) |
-| NN |32 hidden |
+| convolution | 2 * (12 filter, size 11 * 4) |
+| NN |64 hidden |
 | GE | SGE, batch_size 1000, 30000 run|
 | Learning rate | 0.05 |
 | relu | unused |
