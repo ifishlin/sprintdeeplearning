@@ -25,16 +25,16 @@ https://www.encodeproject.org/experiments/ENCSR000AQU/
 * Reference: http://www.nature.com/nbt/journal/v33/n8/full/nbt.3300.html
 * Supplementary Notes: http://www.nature.com/nbt/journal/v33/n8/extref/nbt.3300-S2.pdf
 
-train.data: Train sample size 77531
+*train.data*: Train sample size 77531
 
 |        | name | sequence | label |
 |--------|----------|-----------|-----------|
 | train.data  |     name    |     101 length     |     0 negative, 1 positive     |
 
 
-test.data: Test sample szie 19383 (positive 9709 , negative 9674)
+*test.data*: Test sample szie 19383 (positive 9709 , negative 9674)
 
-encodingSeq.py - sequence encoding
+*encodingSeq.py* - sequence encoding
 ```
 # change the first line #!/home/fish/anaconda3/bin/python to your python directory
 # encodingSeq.py train.data flanking_length
