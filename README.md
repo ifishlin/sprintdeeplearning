@@ -62,14 +62,15 @@ encodingSeq.py train.data 10
 | 1 | winiel559 |0.8493|
 | 2 | chou.yuta |0.4959|
 | 3 | wtwang, jason |----------|
-| 4 | rouanshen, ilunteng |----------|
+| 4 | rouanshen, ilunteng |0.6773|
 | 5 | bomson, andrewkuo | 0.8845|
 | 6 | yichun1492 |0.5299|
-| 7 | alicetuan |0.5050 => 0.7831|
+| 7 | alicetuan |0.7831|
 | 8 | jill |0.6538|
 | 9 | fish |0.8260| 
 
  
+/notebooks/fish/udacity/4_convolutions-HW.ipynb <== base line code
 
 |  Fish's 參數  | value |
 |--------|----------|
