@@ -65,7 +65,7 @@ encodingSeq.py train.data 10
 | 4 | rouanshen, ilunteng |----------|
 | 5 | bomson, andrewkuo | 0.8845|
 | 6 | yichun1492 |0.5299|
-| 7 | alicetuan |0.5050|
+| 7 | alicetuan |0.5050 => 0.7831|
 | 8 | jill |0.6538|
 | 9 | fish |0.8260| 
 
