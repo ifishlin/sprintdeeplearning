@@ -115,3 +115,27 @@ KMRSKKEDSSDSENAEPDLDDNEDEEEPAVEIEPEPEPQPVTPAPPPAKKRRGRPPGRTN
 QPKQNQPTAIIQVEDQNTGAIENIIVEVKKEPDAEPAEGEEEEAQPAATDAPNGDLTPEM
 ILSMMDR
 ```
+
+繳交作業
+* same as HW1
+* Compare the result of HW1 and HW2 which one is better? Is protein sequence helpful? 
+
+繳交日期
+* 3/1 中午前.
+
+繳交方式
+* 寄給ifishlin324@gmail.com
+
+分組
+
+|  組別      | 成員 | accuracy |
+|--------|----------|----------|
+| 1 | winiel559 |----------|
+| 2 | chou.yuta |----------|
+| 3 | wtwang, jason |----------|
+| 4 | rouanshen, ilunteng |----------|
+| 5 | bomson, andrewkuo | ----------|
+| 6 | yichun1492 |----------|
+| 7 | alicetuan |----------|
+| 8 | jill |----------|
+| 9 | fish |----------|
