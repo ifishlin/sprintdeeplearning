@@ -97,7 +97,7 @@ Descriptions
 1. Build a CNN which use featrues from DNA sequence data (HW1) and protein sequence (HW2) **seperately**.
 2. Before classifier, concatenate two feature vectors and then feed it into classifier (NN)
 
-CTCF_HUMAN.fasta 
+**CTCF_HUMAN.fasta**
 ```bash
 >sp|P49711|CTCF_HUMAN Transcriptional repressor CTCF OS=Homo sapiens GN=CTCF PE=1 SV=1
 MEGDAVEAIVEESETFIKGKERKTYQRRREGGQEEDACHLPQNQTDGGEVVQDVNSSVQM
