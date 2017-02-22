@@ -94,7 +94,7 @@ encodingSeq.py train.data 10
 
 Descriptions
 
-1. Build a CNN which use featrues from DNA sequence data (HW1) and protein sequence (HW2) seperately.
+1. Build a CNN which use featrues from DNA sequence data (HW1) and protein sequence (HW2) *seperately*.
 2. before classifier, concatenate two feature vectors 
 3. then feed it into classifier (NN)
 
