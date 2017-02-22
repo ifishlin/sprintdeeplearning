@@ -60,7 +60,7 @@ encodingSeq.py train.data 10
 |  組別      | 成員 | accuracy |
 |--------|----------|----------|
 | 1 | winiel559 |----------|
-| 2 | chou.yuta |----------|
+| 2 | chou.yuta |0.4959|
 | 3 | wtwang, jason |----------|
 | 4 | rouanshen, ilunteng |----------|
 | 5 | bomson, andrewkuo | 0.8845|
